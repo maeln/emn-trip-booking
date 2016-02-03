@@ -3,3 +3,14 @@ D:\Projet_dotNet\BookingEMN\VolLibrary\bin\Debug\VolLibrary.pdb
 D:\Projet_dotNet\BookingEMN\VolLibrary\obj\Debug\VolLibrary.dll
 D:\Projet_dotNet\BookingEMN\VolLibrary\obj\Debug\VolLibrary.pdb
 D:\Projet_dotNet\BookingEMN\VolLibrary\bin\Debug\VolLibrary.tlb
+C:\Users\jagua\Documents\Visual Studio 2015\Projects\git\BookingEMN\VolLibrary\bin\Debug\VolLibrary.dll
+C:\Users\jagua\Documents\Visual Studio 2015\Projects\git\BookingEMN\VolLibrary\bin\Debug\VolLibrary.pdb
+C:\Users\jagua\Documents\Visual Studio 2015\Projects\git\BookingEMN\VolLibrary\bin\Debug\VolLibrary.tlb
+C:\Users\jagua\Documents\Visual Studio 2015\Projects\git\BookingEMN\VolLibrary\obj\Debug\VolLibrary.csprojResolveAssemblyReference.cache
+C:\Users\jagua\Documents\Visual Studio 2015\Projects\git\BookingEMN\VolLibrary\obj\Debug\VolLibrary.dll
+C:\Users\jagua\Documents\Visual Studio 2015\Projects\git\BookingEMN\VolLibrary\obj\Debug\VolLibrary.pdb
+C:\Users\jagua\Documents\Visual Studio 2015\Projects\BookingEMN\VolLibrary\bin\Debug\VolLibrary.dll
+C:\Users\jagua\Documents\Visual Studio 2015\Projects\BookingEMN\VolLibrary\bin\Debug\VolLibrary.pdb
+C:\Users\jagua\Documents\Visual Studio 2015\Projects\BookingEMN\VolLibrary\obj\Debug\VolLibrary.csprojResolveAssemblyReference.cache
+C:\Users\jagua\Documents\Visual Studio 2015\Projects\BookingEMN\VolLibrary\obj\Debug\VolLibrary.dll
+C:\Users\jagua\Documents\Visual Studio 2015\Projects\BookingEMN\VolLibrary\obj\Debug\VolLibrary.pdb

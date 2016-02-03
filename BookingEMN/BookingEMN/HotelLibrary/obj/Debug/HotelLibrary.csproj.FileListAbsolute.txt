@@ -1,0 +1,5 @@
+D:\Projet_dotNet\BookingEMN\HotelLibrary\bin\Debug\HotelLibrary.dll
+D:\Projet_dotNet\BookingEMN\HotelLibrary\bin\Debug\HotelLibrary.pdb
+D:\Projet_dotNet\BookingEMN\HotelLibrary\bin\Debug\HotelLibrary.tlb
+D:\Projet_dotNet\BookingEMN\HotelLibrary\obj\Debug\HotelLibrary.dll
+D:\Projet_dotNet\BookingEMN\HotelLibrary\obj\Debug\HotelLibrary.pdb
