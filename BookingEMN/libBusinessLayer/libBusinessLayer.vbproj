@@ -104,9 +104,13 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BookingEMN\BookingEMN.vbproj">
-      <Project>{37f57c91-3b1b-4993-b417-1769d8b48d78}</Project>
-      <Name>BookingEMN</Name>
+    <ProjectReference Include="..\HotelLibrary\HotelLibrary.csproj">
+      <Project>{f3cfe673-2eed-4b77-bb07-676c5caae5c7}</Project>
+      <Name>HotelLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VolLibrary\VolLibrary.csproj">
+      <Project>{8037c389-0250-475f-b3b3-af400442c2c8}</Project>
+      <Name>VolLibrary</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />

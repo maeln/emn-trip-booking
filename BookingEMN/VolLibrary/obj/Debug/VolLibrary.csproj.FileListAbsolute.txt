@@ -14,3 +14,8 @@ C:\Users\jagua\Documents\Visual Studio 2015\Projects\BookingEMN\VolLibrary\bin\D
 C:\Users\jagua\Documents\Visual Studio 2015\Projects\BookingEMN\VolLibrary\obj\Debug\VolLibrary.csprojResolveAssemblyReference.cache
 C:\Users\jagua\Documents\Visual Studio 2015\Projects\BookingEMN\VolLibrary\obj\Debug\VolLibrary.dll
 C:\Users\jagua\Documents\Visual Studio 2015\Projects\BookingEMN\VolLibrary\obj\Debug\VolLibrary.pdb
+E:\emn-trip-booking\BookingEMN\VolLibrary\bin\Debug\VolLibrary.dll
+E:\emn-trip-booking\BookingEMN\VolLibrary\bin\Debug\VolLibrary.pdb
+E:\emn-trip-booking\BookingEMN\VolLibrary\obj\Debug\VolLibrary.csprojResolveAssemblyReference.cache
+E:\emn-trip-booking\BookingEMN\VolLibrary\obj\Debug\VolLibrary.dll
+E:\emn-trip-booking\BookingEMN\VolLibrary\obj\Debug\VolLibrary.pdb

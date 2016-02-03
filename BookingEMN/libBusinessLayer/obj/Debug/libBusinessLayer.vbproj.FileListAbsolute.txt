@@ -34,3 +34,11 @@ C:\Users\jagua\Documents\Visual Studio 2015\Projects\BookingEMN\libBusinessLayer
 C:\Users\jagua\Documents\Visual Studio 2015\Projects\BookingEMN\libBusinessLayer\obj\Debug\libBusinessLayer.dll
 C:\Users\jagua\Documents\Visual Studio 2015\Projects\BookingEMN\libBusinessLayer\obj\Debug\libBusinessLayer.xml
 C:\Users\jagua\Documents\Visual Studio 2015\Projects\BookingEMN\libBusinessLayer\obj\Debug\libBusinessLayer.pdb
+E:\emn-trip-booking\BookingEMN\libBusinessLayer\obj\Debug\libBusinessLayer.vbprojResolveAssemblyReference.cache
+E:\emn-trip-booking\BookingEMN\libBusinessLayer\obj\Debug\libBusinessLayer.Resources.resources
+E:\emn-trip-booking\BookingEMN\libBusinessLayer\obj\Debug\libBusinessLayer.vbproj.GenerateResource.Cache
+E:\emn-trip-booking\BookingEMN\libBusinessLayer\obj\Debug\libBusinessLayer.xml
+C:\Users\mael\Documents\emn-trip-booking\BookingEMN\libBusinessLayer\obj\Debug\libBusinessLayer.vbprojResolveAssemblyReference.cache
+C:\Users\mael\Documents\emn-trip-booking\BookingEMN\libBusinessLayer\obj\Debug\libBusinessLayer.Resources.resources
+C:\Users\mael\Documents\emn-trip-booking\BookingEMN\libBusinessLayer\obj\Debug\libBusinessLayer.vbproj.GenerateResource.Cache
+C:\Users\mael\Documents\emn-trip-booking\BookingEMN\libBusinessLayer\obj\Debug\libBusinessLayer.xml
